@@ -2,7 +2,7 @@
 
 <img src="https://user-images.githubusercontent.com/99312687/175099873-19f75476-b014-40c2-97d2-16e12625226b.png" width="600" height="400">
 
-Our project's purpose is to use Algorithmic Trading and Machine Learning to demonstrate that our renewable energy portfolio is a good investment for environmentally conscious and socially responsible investors. We compare our portfolio to the S&P500 index with this analysis because the S&P500 is a good indicator of overall stock market performance during the dates we have chosen. Therefore, if our portfolio outperforms the S&P500 it shows that it is a profitable investment that is outperforming the overall market. The following provides a brief description of how we gathered the data and developed our code, followed by our findings after analysing the data. Finally, we use Streamlit (https://albakomito-g12-project-2-streamlitapp-5lhj5r.streamlitapp.com/) as a frontend development tool to display our result in a user friendly UI. 
+Our project's purpose is to use Algorithmic Trading and Machine Learning to demonstrate that our renewable energy portfolio is a good investment for environmentally conscious and socially responsible investors. We compare our portfolio to the S&P500 index with this analysis because the S&P500 is a good indicator of overall stock market performance during the dates we have chosen. Therefore, if our portfolio outperforms the S&P500 it shows that it is a profitable investment that is outperforming the overall market. The following provides a brief description of how we gathered the data and developed our code, followed by our findings after analysing the data. Finally, we use Streamlit (https://albakomito-g12-project-2-streamlitapp-sdqrij.streamlitapp.com/) as a frontend development tool to display our result in a user friendly UI. 
 
 ## Group 12
 Amany El Gouhary, Katharine Zenta, Nicolas Hernandez, Al Bakomito 
@@ -84,7 +84,7 @@ After applyig the LSTM and 30 day Prediction model, we found that our portfolio 
 Of course this model may need further review and analysis to make sure the findings are indeed correct. In addition, there are many unknown factors that can affect these results in the future. We hope that our portfolio continues on this upward trend and due to the objective of many countries to reduce their CO2 emissions significantly by 2050, we expect these stocks to continue to grow in the future. 
 
 ### Notebook (.py file): Streamlit Deployment
-The following  decribes the steps involved in deployment of Streamlit for the findings in our project. Please click here to view our deployed UI: https://albakomito-g12-project-2-streamlitapp-5lhj5r.streamlitapp.com/. 
+The following  decribes the steps involved in deployment of Streamlit for the findings in our project. Please click here to view our deployed UI: https://albakomito-g12-project-2-streamlitapp-sdqrij.streamlitapp.com/.
 
 #### Part 1: Library & Image imports, User Interface ('UI') setup (ln 1-29) 
 In this section we: 
